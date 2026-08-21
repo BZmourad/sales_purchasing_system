@@ -1,0 +1,6 @@
+openpyxl
+msoffcrypto-tool
+python-dateutil
+pandas
+numpy
+xlsxwriter
